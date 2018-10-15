@@ -1,3 +1,3 @@
 <?php
-echo "This is my first PHP file"
+echo "This is my first PHP file";
 ?>
